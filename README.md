@@ -8,7 +8,7 @@ LIBFT
 https://github.com/weijuan82113/libft.git
 
 FT_PRINTF
-
+https://github.com/weijuan82113/FT_PRINTF.git
 
 GET_NEXT_LINE
 https://github.com/weijuan82113/GET_NEXT_LINE.git
