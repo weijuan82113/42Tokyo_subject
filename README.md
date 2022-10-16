@@ -9,3 +9,7 @@ https://github.com/weijuan82113/libft.git
 
 FT_PRINTF
 
+
+GET_NEXT_LINE
+https://github.com/weijuan82113/GET_NEXT_LINE.git
+
