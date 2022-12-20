@@ -17,5 +17,8 @@ I would like to discuss the subject with everyone, so I will upadete code when I
 - MINITALK (2022/10)
 >https://github.com/weijuan82113/MINI_TALK.git
 
+- YSAL (2022/11/26~11/27)
+>
+
 - SO_LONG (2022/11/12~2022/12/21)
 >https://github.com/weijuan82113/so_long.git
