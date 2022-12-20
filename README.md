@@ -8,13 +8,13 @@ I would like to discuss the subject with everyone, so I will upadete code when I
 - FT_PRINTF (2022/8)
 >https://github.com/weijuan82113/FT_PRINTF.git
 
-- GET_NEXT_LINE (2022/8)
+- GET_NEXT_LINE (2022/9)
 >https://github.com/weijuan82113/GET_NEXT_LINE.git
 
-- PUSH_SWAP (2022/9)
+- PUSH_SWAP (2022/10)
 >https://github.com/weijuan82113/PUSH_SWAP.git
 
-- MINITALK (2022/10)
+- MINITALK (2022/11/14~2022/11/24)
 >https://github.com/weijuan82113/MINI_TALK.git
 
 - YSAL (2022/11/26~11/27)
