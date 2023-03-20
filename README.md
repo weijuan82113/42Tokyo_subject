@@ -23,5 +23,5 @@ I would like to discuss the subject with everyone, so I will upadete code when I
 - SO_LONG (2022/11/12~2022/12/21)
 >https://github.com/weijuan82113/so_long.git
 
-- MINI_SHELL (2023/01/01~)
+- MINI_SHELL (2023/01/01~2023/02/04)
 >https://github.com/minishellakirawchen/mini_shell.git
