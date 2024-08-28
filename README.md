@@ -32,7 +32,7 @@ I would like to discuss the subject with everyone, so I will upadete code when I
 - Cub3D (2023/09ー)
 >https://github.com/weijuan82113/cub3D_protype.git
 
--INCEPTION
+- INCEPTION
 >https://github.com/weijuan82113/Inception.git
 
 - CPP (2024/01ー)
