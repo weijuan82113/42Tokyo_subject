@@ -35,5 +35,11 @@ I would like to discuss the subject with everyone, so I will upadete code when I
 - INCEPTION (2024/04ー2024/06)
 >https://github.com/weijuan82113/Inception.git
 
-- CPP (2024/01ー)
+- CPP (2024/01ー2024/07)
 >https://github.com/weijuan82113/CPP.git
+
+- JIN(Radar Hackthon)(2024/09ー2024/10)
+>https://github.com/YungTatyu/Jin
+
+- IRC_SERVER(2024/07ー)
+>https://github.com/IRC-WIR/ft_irc
